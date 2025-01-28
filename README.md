@@ -1,4 +1,3 @@
-![](https://github.com/Sreekanth-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
 ### Hi there 👋 I am Sreekanth
 ### About Me : 
 
