@@ -13,5 +13,4 @@ I’m a lifelong learner, dedicated to enhancing my skills and staying at the fo
 - 👯 I’m looking to collaborate on Machine Learning and Data Science.
 - 💬 Ask me about Machine Learning, Deep Learning and NLP
 - 📫 To contact me go for this polusreekanthreddys@gmail.com
-- :smile: Happy Learning
 
